@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+
+/web/node_modules
+/web/.svelte-kit
+/web/build
+/web/.vercel
+
+.env
+.env.*
